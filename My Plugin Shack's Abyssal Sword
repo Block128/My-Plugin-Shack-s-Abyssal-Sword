@@ -4,7 +4,7 @@ local Weldname = Instance.new('Weld')
 Weldname.Parent = game.Players.LocalPlayer.Character['Right Arm']
 Weldname.Part0 = game.Players.LocalPlayer.Character['MeshPartAccessory'].Handle
 Weldname.Part1 = game.Players.LocalPlayer.Character['Right Arm']
-Weldname.C1 = CFrame.new(0,-1,-2.7)*CFrame.Angles(0.8,-10.6,0)
+Weldname.C1 = CFrame.new(0,-1,-2.7)*CFrame.Angles(0.8,-1.6,0)
 --//====================================================\\--
 --||			   CREATED BY SHACKLUSTER
 --\\====================================================//--
